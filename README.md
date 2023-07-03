@@ -25,3 +25,16 @@ SUCCEEDS. (YOU CAN USE VIDEO RECORDED FOR THE PRESENTATION)
 ![image](https://github.com/Hakulani/gamerealtimeanalytics/assets/61573397/7b51bab6-1c4c-401c-ae97-afeba3cd05ea)
 
 ![image](https://github.com/Hakulani/gamerealtimeanalytics/assets/61573397/deb7757e-de69-402f-a99c-70632210064d)
+
+# Team member :
+1. 6420422002 Tanakorn Withuratธนากร วิธุรัติ
+
+2. 6420422008 Wannapa Sripen วรรณนภา ศรีเพ็ญ
+
+3. 6420422011 Juntanee Pattanasukkul จันทร์ทนีย์ พัฒนสุขกุล
+
+4. 6420422017 Witsarut Wongsim วิศรุต วงศ์ซิ้ม
+
+5. 6420422021 Suchawalee Jeeratanyasakul สุชาวลี จีระธัญญาสกุล
+
+![image](https://user-images.githubusercontent.com/61573397/236550567-f7800e7f-d4f2-425c-9b14-d2519ff4cd5b.png)
